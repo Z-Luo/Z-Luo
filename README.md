@@ -1,6 +1,10 @@
-<h2> Hi, I'm Jason(Zizhen) Luo, a Full-stack Developer who is passionate about technologies and innovation
-<br />
-<br />
+<p align="center">
+<img align="center" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
+</p>
+
+<h2> Hi, I'm Jason, a Full-stack Developer who is passionate about technologies and innovation.
+<h4 align="center"><samp> Hi, I'm Jason 👋 </samp></h4>
+<h4 align="center"><samp>I'm a Full-stack Developer who is passionate about technologies and innovation ✨</samp></h4>
 
 [![Linkedin: ZizhenLuo](https://img.shields.io/badge/-ZizhenLuo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zizhen-luo/)](https://www.linkedin.com/in/zizhen-luo/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zizhenluo2328@gmail.com)](zizhenluo2328@gmail.com)
@@ -23,4 +27,4 @@
 
 
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
+
